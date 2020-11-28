@@ -2,6 +2,9 @@
 
 [![phugodness's github stats](https://github-readme-stats.vercel.app/api?username=phugodness&show_icons=true&theme=dracula)](https://github.com/phugodness/phugodness)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phugodness&layout=compact)](https://github.com/phugodness/phugodness)
+
+
 **phugodness/phugodness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
